@@ -1,5 +1,4 @@
-# 'Hello, World!'
-## - Kartik Chaudhary
+# Hello, World! ### - Kartik Chaudhary
 
 <!--
 **kartikjaat970/kartikjaat970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
