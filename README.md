@@ -16,10 +16,12 @@ I'm a 19 yo continuing undergraduate student at **Illinois State University**, N
 
 ## 🛠️ A Little About My Projects
 I believe that building a project does not start with a draft or the code itself, but the idea of what needs to be achieved and how. And from that point it's an ongoing process to make it better in regards to current standards.
+- However, an important thing I must disclose about my projects is that I've sought help from peers and friends whenever I felt stuck, or had trouble expressing my ideas into code. The code is original, however I'm not at a level where I can write all of it myself yet. Again, the word is 'yet'. So I'll keep exploring new ideas and concepts, until I'm confident in my own skills.
 
 ---
 
 ## 🧠 Interests
+Out of context, but I'm really into old money fashion, colognes, weightlifting, and Calisthenics. In addition to that, I love music a lot!!
 
 ---
 
