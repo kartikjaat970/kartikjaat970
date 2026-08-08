@@ -4,13 +4,13 @@
 I'm a 19 yo continuing undergraduate student at **Illinois State University**, Normal IL, pursuing a degree in **Computer Science** with minors in **Business Analytics** and **Mathematics**. I like the feeling of knowing 'the how' behind the things that I use & trust in my everyday life, and for that reason, not only do I want to learn things that goes under the hood, I also want to help instate/stabilize the features that I as a person or the community in general wants to have!
 
 ### 🛠️ Core Toolkit
-![Python](https://shields.io)
-![Java](https://shields.io)
-![C](https://shields.io)
-![C++](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Git](https://shields.io)
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="Java" />
+<img src="https://shields.io" alt="C" />
+<img src="https://shields.io" alt="C++" />
+<img src="https://shields.io" alt="JavaScript" />
+<img src="https://shields.io" alt="TypeScript" />
+<img src="https://shields.io" alt="Git" />
 
 ---
 
