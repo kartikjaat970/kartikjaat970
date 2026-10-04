@@ -1,5 +1,5 @@
 # Twink twice, code once!
-### debug for a week :)
+<kbd><span style="background-color: #3670A0; color: brown; padding: 4px 8px; border-radius: 4px; font-weight: bold;">debug for a week :)</span></kbd>
 
 ## About Me
 I'm a 19 yo continuing undergraduate student at **Illinois State University**, Normal IL, pursuing a degree in **Computer Science** with minors in **Business Analytics** and **Mathematics**. I like the feeling of knowing 'the how' behind the things that I use & trust in my everyday life, and for that reason, not only do I want to learn things that goes under the hood, I also want to help instate/stabilize the features that I as a person or the community in general wants to have!
