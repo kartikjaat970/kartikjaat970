@@ -1,8 +1,8 @@
 <h1 align="center">Kartik Chaudhary</h1>
 
-<p align="center"><b>Computer Science @ Illinois State University · Minors in Business Analytics & Mathematics</b></p>
+<p align="center"><b>Computer Science @ Illinois State University · Minors in Mathematics & Business Analytics</b></p>
 
-<p align="center"><i>Will Code for snacks!</i></p>
+<p align="center"><i>Will code for snacks!</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartikchaudhary16">
@@ -26,11 +26,16 @@ I like the feeling of knowing "the how" behind the things I use and trust in my 
 ## Core Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,git" alt="Python, Java, C, C++, JavaScript, TypeScript, Git" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp" alt="Python, Java, JavaScript, HTML, CSS, C, C++" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,githubactions,react,nodejs,express,fastapi,spring" alt="PostgreSQL, MySQL, Git, GitHub, GitHub Actions, React, Node.js, Express, FastAPI, Spring Boot" />
 </p>
 
-- **Languages:** Python · Java · C · C++ · JavaScript · TypeScript ·  CSS · HTML
-- **Tools:** Git
+- **Programming Languages:** Python · Java · JavaScript · CSS · HTML · C · C++ · SQL
+- **Software & Databases:** PostgreSQL · MySQL · Git · GitHub · GitHub Actions
+- **Frameworks & APIs:** React · Node.js · Express.js · FastAPI · Spring Boot
+- **Engineering Competencies:** Data Structures & Algorithms · Object-Oriented Programming (OOP) · Systems Design · Parallel Computing · Database Design · Version Control · CI/CD
 
 ## A Little About My Projects
 
@@ -51,5 +56,5 @@ Please feel free to use my projects in any way that helps you.
 ~ Kartik Chaudhary
 
 <a href="https://www.linkedin.com/in/kartikchaudhary16">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
 </a>
