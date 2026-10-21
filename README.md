@@ -1,17 +1,15 @@
 <h1 align="center">Kartik Chaudhary</h1>
 
-<p align="center"><b>Computer Science @ Illinois State University · Minors in Mathematics & Business Analytics</b></p>
+<p align="center"><b>Computer Science @ Illinois State University · Minors in Business Analytics & Mathematics</b></p>
 
-<p align="center"><i>Will code for snacks!</i></p>
+<p align="center"><i>Will Code for snacks!</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartikchaudhary16">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/kartik16sidhu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
 </p>
+
 ---
 
 ## About Me
