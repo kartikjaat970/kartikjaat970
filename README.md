@@ -1,35 +1,55 @@
-# Twink twice, code once!
-<kbd><span style="background-color: #3670A0; color: brown; padding: 4px 8px; border-radius: 4px; font-weight: bold;">debug for a week :)</span></kbd>
+<h1 align="center">Kartik Chaudhary</h1>
+
+<p align="center"><b>Computer Science @ Illinois State University · Minors in Business Analytics & Mathematics</b></p>
+
+<p align="center"><i>Think twice, code once! Debug for a week :)</i></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartikchaudhary16">
+    <img src="https://img.shields.io/badge/LinkedIn-Kartik_Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 ## About Me
-I'm a 19 yo continuing undergraduate student at **Illinois State University**, Normal IL, pursuing a degree in **Computer Science** with minors in **Business Analytics** and **Mathematics**. I like the feeling of knowing 'the how' behind the things that I use & trust in my everyday life, and for that reason, not only do I want to learn things that goes under the hood, I also want to help instate/stabilize the features that I as a person or the community in general wants to have!
 
-### Core Toolkit
-<kbd><span style="background-color: #3670A0; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">Python</span></kbd>
-<kbd><span style="background-color: #ED8B00; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">Java</span></kbd>
-<kbd><span style="background-color: #00599C; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">C</span></kbd>
-<kbd><span style="background-color: #00599C; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">C++</span></kbd>
-<kbd><span style="background-color: #F7DF1E; color: black; padding: 4px 8px; border-radius: 4px; font-weight: bold;">JavaScript</span></kbd>
-<kbd><span style="background-color: #007ACC; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">TypeScript</span></kbd>
-<kbd><span style="background-color: #F05033; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">Git</span></kbd>
+I'm a 19 y/o continuing undergraduate student at Illinois State University in Normal, IL, pursuing a degree in Computer Science with minors in Business Analytics and Mathematics.
 
----
+I like the feeling of knowing "the how" behind the things I use and trust in my everyday life. For that reason, I not only want to learn what goes on under the hood, I also want to help build and stabilize the features that I, or the community in general, would like to have!
+
+## Projects
+
+- [**Interview AI**](https://github.com/kartikjaat970/interview-ai) · AI-powered technical and behavioral interview preparation platform with real-time interactive evaluation, stateful session memory tracking, and WebSocket-driven live feedback.
+- [**Semantic Search Platform**](https://github.com/kartikjaat970/semantic-search-platform) · Full-stack semantic search platform built with FastAPI, React, and PostgreSQL (pgvector) that converts uploaded text documents into high-dimensional vector embeddings.
+
+## Core Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,git" alt="Python, Java, C, C++, JavaScript, TypeScript, Git" />
+</p>
+
+- **Languages:** Python · Java · C · C++ · JavaScript · TypeScript
+- **Tools:** Git
 
 ## A Little About My Projects
-I believe that building a project does not start with a draft or the code itself, but the idea of what needs to be achieved and how. And from that point it's an ongoing process to make it better in regards to current standards.
-- However, an important thing I must disclose about my projects is that I've sought help from peers and friends whenever I felt stuck, or had trouble expressing my ideas into code. 
 
----
+I believe that building a project doesn't start with a draft or the code itself, but with the idea of what needs to be achieved and how. From that point, it's an ongoing process to make it better in regards to current standards.
+
+> **Note:** An important thing I must disclose about my projects is that I've sought help from peers and friends whenever I felt stuck or had trouble expressing my ideas in code.
 
 ## Interests
-Out of context, but I'm really into old money fashion, colognes, weightlifting, and Calisthenics. In addition to that, I love music a lot!!
 
----
+Out of context, but I'm really into old money fashion, colognes, weightlifting, and calisthenics. In addition to that, I love music a lot!!
 
 ## ✉️ Ending Note
 
-I'm not at a level where I can write all of my projects' code myself yet. However, the word is 'yet'. So I'll keep exploring new ideas and concepts, until I'm confident in my own skills. 
+I'm not at a level where I can write all of my projects' code myself yet. However, the word is *yet*. So I'll keep exploring new ideas and concepts until I'm confident in my own skills.
 
-Please feel free to use my projects in any way it helps you.
+Please feel free to use my projects in any way that helps you.
 
-### ~ Kartik Chaudhary
+~ Kartik Chaudhary
+
+<a href="https://www.linkedin.com/in/kartikchaudhary16">
+  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
