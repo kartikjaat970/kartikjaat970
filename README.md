@@ -1,15 +1,17 @@
 <h1 align="center">Kartik Chaudhary</h1>
 
-<p align="center"><b>Computer Science @ Illinois State University · Minors in Business Analytics & Mathematics</b></p>
+<p align="center"><b>Computer Science @ Illinois State University · Minors in Mathematics & Business Analytics</b></p>
 
-<p align="center"><i>Think twice, code once! Debug for a week :)</i></p>
+<p align="center"><i>Will code for snacks!</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartikchaudhary16">
-    <img src="https://img.shields.io/badge/LinkedIn-Kartik_Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/kartik16sidhu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
 ---
 
 ## About Me
@@ -29,14 +31,14 @@ I like the feeling of knowing "the how" behind the things I use and trust in my 
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,git" alt="Python, Java, C, C++, JavaScript, TypeScript, Git" />
 </p>
 
-- **Languages:** Python · Java · C · C++ · JavaScript · TypeScript
+- **Languages:** Python · Java · C · C++ · JavaScript · TypeScript ·  CSS · HTML
 - **Tools:** Git
 
 ## A Little About My Projects
 
 I believe that building a project doesn't start with a draft or the code itself, but with the idea of what needs to be achieved and how. From that point, it's an ongoing process to make it better in regards to current standards.
 
-> **Note:** An important thing I must disclose about my projects is that I've sought help from peers and friends whenever I felt stuck or had trouble expressing my ideas in code.
+> **Note:** I've sought help from peers and friends whenever I felt stuck or had trouble expressing my ideas in code.
 
 ## Interests
 
@@ -44,7 +46,7 @@ Out of context, but I'm really into old money fashion, colognes, weightlifting, 
 
 ## ✉️ Ending Note
 
-I'm not at a level where I can write all of my projects' code myself yet. However, the word is *yet*. So I'll keep exploring new ideas and concepts until I'm confident in my own skills.
+I'll keep exploring new ideas and concepts until I'm confident in my own skills.
 
 Please feel free to use my projects in any way that helps you.
 
